@@ -1,6 +1,6 @@
 {
   "name": "saoviet-caculator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "homepage": "https://github.com/phamvankhai1000/SaoViet-caculator",
   "devDependencies": {
@@ -13,7 +13,8 @@
     "big.js": "^5.2.2",
     "github-fork-ribbon-css": "^0.2.1",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.8.6",
+    "@rewikipx/simple-rewiki-tstacktable": "^1.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -41,7 +42,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/phamvankhai1000/SaoViet-caculator.git"
+    "url": "https://github.com/phamvankhai1000/SaoViet-caculator.git"
   },
   "keywords": [
     "caculator"
